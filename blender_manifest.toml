@@ -1,0 +1,24 @@
+schema_version = "1.0.0"
+id="sco_edgewise"
+name = "SCO EdgeWise"
+version = "2.0.0"
+
+tagline = "Measure distances, edge lengths, and angles in Edit Mode"
+
+author = "BEAST_of_BURDEN <scottb613@yahoo.com>"
+maintainer = "BEAST_of_BURDEN"
+type = "add-on"
+category = "3D View"
+location = "3D View > Sidebar > Item Tab > Edit Mode"
+
+# Blender version support
+blender_version_min = "4.2.0"
+blender_version_max = "5.1.0"
+
+# License information
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+# Tags (optional, but useful)
+tags = ["Object", "3D View", "Mesh", "Modeling"]
