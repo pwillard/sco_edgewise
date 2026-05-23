@@ -13,7 +13,7 @@ location = "3D View > Sidebar > Item Tab > Edit Mode"
 
 # Blender version support
 blender_version_min = "4.2.0"
-blender_version_max = "5.1.0"
+blender_version_max = "5.9.0"
 
 # License information
 license = [
