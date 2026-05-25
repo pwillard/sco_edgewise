@@ -1,11 +1,11 @@
 bl_info = {
     "name": "SCO EdgeWise",
     "author": "BEAST_of_BURDEN",
-    "version": (2, 0),
-    "blender": (4, 0, 0),
+    "version": (2, 0, 6),
+    "blender": (4, 2, 0),
     "location": "3D View > Sidebar > Item Tab > Edit Mode",
     "description": "Measure distances, edge lengths, and angles in edit mode",
-    "category": "Object",
+    "category": "Mesh",
 }
 
 import bpy
