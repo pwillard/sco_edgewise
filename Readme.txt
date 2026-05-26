@@ -1,6 +1,6 @@
 # Blender Addon - SCO EdgeWise
-# Version: 2.0.0
-# Author: BEAST_of_BURDEN (scottb613@yahoo.com)
+# Version: 2.0.6
+# Author: BEAST_of_BURDEN (Sun503@yahoo.com)
 
 # This script is licensed under the GNU General Public License GPLv3.
 # See the LICENSE file for more details.
@@ -14,8 +14,9 @@ SCO EdgeWise (Measurements in Edit Mode)
     -Measure angles between two selected edges
     -Calculate distances from 3D Cursor along X, Y, or Z axis to single vertices
     -Automatically adapts to active unit system (Metric or Imperial)
+    -Dynamically increases decimal precision for very small distances
     -Displays results in an easily accessible UI panel
-    -Works seamlessly in Blender’s Edit Mode for mesh objects
+    -Works seamlessly in Blender's Edit Mode for mesh objects
     
 Manual Installation: Install ZIP [From File].
 
